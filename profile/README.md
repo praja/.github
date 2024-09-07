@@ -10,4 +10,3 @@ Our awesome team
 * [@jillellamudisurya](https://github.com/jillellamudisurya)
 * [@okmanideep](https://github.com/okmanideep)
 * [@saivenkat106](https://github.com/saivenkat106)
-* [@vian20](https://github.com/vian20)
