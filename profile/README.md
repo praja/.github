@@ -1,6 +1,6 @@
 # Welcome to Praja!
 
-Vernacular social network app, powered by [@flutter](https://github.com/flutter)
+Vernacular social network, powered by [@flutter](https://github.com/flutter/flutter) & [@rails](https://github.com/rails/rails)
 
 👯 We are looking to collaborate on [Jetpack for Flutter](https://github.com/praja/jetpack)
 
